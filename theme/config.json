@@ -1,0 +1,38 @@
+{
+    "name": "Retrowave",
+    "font": "Iosevka.ttf",
+    "fontascii": "Iosevka.ttf",
+    "fontsize": {
+        "nav_font1": 28,
+        "nav_font2": 24,
+        "content_font1": 32,
+        "content_font2": 24,
+        "content_font3": 40,
+        "content_font4": 48,
+        "content_font5": 36,
+        "content_font6": 24,
+        "stat_font1": 24,
+        "menu_font1": 28,
+        "popup_font1": 36,
+        "popup_font2": 28,
+        "popup_font3": 28
+    },
+    "fontcolor": {
+        "nav_color1": "#00EFF7FF",
+        "nav_color2": "#FFFFFFFF",
+        "nav_color3": "#00EFF7FF",
+        "content_color1": "#FFFFFFFF",
+        "content_color2": "#00EFF7FF",
+        "content_color3": "#FB2AA8AB",
+        "content_color4": "#FB2AA8AB",
+        "stat_color1": "#FFFFFFFF",
+        "stat_color2": "#FB2AA8AB",
+        "menu_color1": "#FFFFFFFF",
+        "menu_color2": "#FFFFFFFF",
+        "popup_color1": "#FB2AA8AB",
+        "popup_color2": "#FFFFFFFF",
+        "popup_color3": "#FFFFFFFF",
+        "highlight_color1": "#FB2AA8AB",
+        "shadow_color1": "#FF000000"
+    }
+}
