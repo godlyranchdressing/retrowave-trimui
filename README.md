@@ -3,7 +3,7 @@ Port of my [Retrowave](https://github.com/godlyranchdressing/retrowave-theme) th
 
 I pulled some assets from the TrimUI Retro theme (icons). Also includes an SVG asset set to use as a base for other TrimUI themes.
 
-![Preview](./preview.png)
+![Preview](./theme/preview.png)
 ![Preview](./1.jpg)
 ![Preview](./2.jpg)
 ![Preview](./3.jpg)
