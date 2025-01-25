@@ -17,7 +17,7 @@ esac
 ZOPFLIPNG="/usr/bin/zopflipng"
 
 SRC_FILE="assets.svg"
-ASSETS_DIR="../skin"
+ASSETS_DIR="../theme/skin"
 INDEX="assets.txt"
 
 for i in `cat $INDEX`
